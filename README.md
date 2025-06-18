@@ -55,11 +55,11 @@ javac Server.java
 
 ---
 
-Run the Server
+Run the Server:
 
 java Server
 
-Run the Client
+Run the Client:
 
 java Client
 
@@ -74,12 +74,14 @@ Use ThreadPoolExecutor for efficient multi-threading
 Add logging and metrics
 Implement file serving from the server
 Upgrade to Maven/Gradle project structure
+
 ---
 
 ✅ Requirements
 
 Java 8 or higher
 Command line or any IDE (e.g., IntelliJ, VS Code, Eclipse)
+
 ---
 
 📄 License
