@@ -47,7 +47,7 @@ Web-Server-using-Java/
 ### 1. Compile the Java Files
 
 # Navigate to the respective folder
-cd src/singlethread        # or src/multithread
+cd Singlethread        # or Multithread
 
 # Compile both client and server
 javac Client.java
@@ -55,11 +55,11 @@ javac Server.java
 
 ---
 
-Run the Server:
+### 2.Run the Server:
 
 java Server
 
-Run the Client:
+### 3.Run the Client:
 
 java Client
 
