@@ -84,7 +84,7 @@ Command line or any IDE (e.g., IntelliJ, VS Code, Eclipse)
 
 ---
 
-### 📄 License
+## 📄 License
 This project is open-source and free to use under the MIT License.
 
 
