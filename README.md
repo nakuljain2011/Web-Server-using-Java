@@ -42,24 +42,24 @@ Web-Server-using-Java/
 
 ---
 
-## 🛠️ How to Run
+# 🛠️ How to Run
 
-### 1. Compile the Java Files
+## 1. Compile the Java Files
 
-# Navigate to the respective folder
+### Navigate to the respective folder
 cd Singlethread        # or Multithread
 
-# Compile both client and server
+### Compile both client and server
 javac Client.java
 javac Server.java
 
 ---
 
-### 2.Run the Server:
+## 2.Run the Server:
 
 java Server
 
-### 3.Run the Client:
+## 3.Run the Client:
 
 java Client
 
@@ -67,7 +67,7 @@ java Client
 
 ---
 
-💡 Possible Enhancements
+### 💡 Possible Enhancements
 
 Convert to HTTP server (handle GET, POST)
 Use ThreadPoolExecutor for efficient multi-threading
@@ -77,14 +77,14 @@ Upgrade to Maven/Gradle project structure
 
 ---
 
-✅ Requirements
+### ✅ Requirements
 
 Java 8 or higher
 Command line or any IDE (e.g., IntelliJ, VS Code, Eclipse)
 
 ---
 
-📄 License
+### 📄 License
 This project is open-source and free to use under the MIT License.
 
 
