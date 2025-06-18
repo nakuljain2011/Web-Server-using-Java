@@ -67,17 +67,17 @@ java Client
 
 ---
 
-### 💡 Possible Enhancements
+## 💡 Possible Enhancements
 
-Convert to HTTP server (handle GET, POST)
-Use ThreadPoolExecutor for efficient multi-threading
-Add logging and metrics
-Implement file serving from the server
-Upgrade to Maven/Gradle project structure
+- Convert to **HTTP server** (handle `GET`, `POST`)
+- Use **ThreadPoolExecutor** for efficient multi-threading
+- Add **logging** and **metrics**
+- Implement **file serving** from the server
+- Upgrade to **Maven/Gradle** project structure
 
 ---
 
-### ✅ Requirements
+## ✅ Requirements
 
 Java 8 or higher
 Command line or any IDE (e.g., IntelliJ, VS Code, Eclipse)
